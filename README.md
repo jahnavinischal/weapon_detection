@@ -45,7 +45,7 @@ cd weapon_detection
 
 2. Create and activate your virtual environment and install dependencies.
 
-# Result: 
+## Result: 
 One of the output is as shown in the figure:
 ![WhatsApp Image 2025-09-18 at 16 15 39_8c3fc1cc](https://github.com/user-attachments/assets/9ad0fdf5-ca3e-4a7a-86b2-d94179734159)
 
