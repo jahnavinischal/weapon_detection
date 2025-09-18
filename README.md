@@ -29,7 +29,7 @@ Install mecessary with pip command.
 
 ## Dataset
 
-The dataset is taken from ![https://www.kaggle.com/datasets/snehilsanyal/weapon-detection-test/data](Kaggle.)
+The dataset is taken from ![Kaggle](https://www.kaggle.com/datasets/snehilsanyal/weapon-detection-test/data)
 
 
 ---
